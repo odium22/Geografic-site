@@ -39,7 +39,8 @@ h1 {
   line-height: 1.5;
   font-size: 2rem;
   padding: 1em;
-  color: aliceblue; 
+  color: aliceblue;
+  margin: 0 auto; 
 }
 
 .middlep{
